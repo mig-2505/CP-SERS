@@ -32,6 +32,31 @@ Este repositório contém as soluções do **Checkpoint 01** da disciplina de **
   3. Exercícios 11 ao 15 / 21 ao 25 - [Exercícios 11 ao 15 / 21 ao 25](https://colab.research.google.com/drive/1SOvMQ9350e5jtDdvY9SakoleeT1VB3N6?usp=sharing&authuser=2#scrollTo=Z4WVSc7X7h03)
   4. Exercícios 26 ao 35 - [Exercícios 26 ao 35](https://colab.research.google.com/drive/1VACb8WWcNFhoghv_6NVFlmtUC-DKY8mk?usp=drive_link#scrollTo=PewgqjzrTrXX)
   5. Exercícios 36 ao 40 - [Exercícios 36 ao 40(feito pelo Orange Data Miner)](CP_SERS.ows)
+     
+  ## 🟠 Como abrir o workflow no Orange Data Mining
+
+Para visualizar e interagir com os fluxos do projeto no **Orange Data Mining**, siga os passos abaixo:
+
+1. **Baixe o Orange Data Mining**
+   - Site oficial: [https://orangedatamining.com/download/](https://orangedatamining.com/download/)
+   - Escolha a versão compatível com seu sistema operacional (Windows, macOS ou Linux).
+   - Instale normalmente (não requer configurações avançadas).
+
+2. **Baixe o arquivo do workflow**
+   - O workflow do projeto está disponível no repositório:
+     - [📂 CP_SERS.ows.ows](CP_SERS.ows)
+
+3. **Abra no Orange**
+   - Abra o Orange Data Mining.
+   - Vá em **File → Open**.
+   - Selecione o arquivo `CP_SERS.ows`.
+   - O fluxo com todos os widgets será carregado na tela.
+
+4. **Exploração**
+   - Você pode executar o fluxo clicando em cada widget.
+   - É possível modificar os parâmetros, reexecutar análises e exportar gráficos.
+
+> 💡 Dica: se preferir apenas visualizar, também incluímos um arquivo .txt com as respostas.
   
   ## 👥 Integrantes 
   1. Miguel Vanucci Delgado RM: 563491
