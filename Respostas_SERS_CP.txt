@@ -1,0 +1,32 @@
+RESPOSTAS PERGUNTAS 36 - 40 —------------ SERS
+
+36. Quantas variáveis e registros aparecem?
+
+Resposta: O dataset possui 9 variáveis e 2.075.259 registros.
+
+
+
+37.A distribuição de Global_active_power na amostra é semelhante à base completa?
+
+Resposta: Sim. A amostra de 1% (~20.752 registros) mantém o mesmo padrão da base completa, com predominância de valores baixos e poucos registros de consumo alto
+
+
+38. O consumo é concentrado em valores baixos ou há muitos registros de alto consumo?
+
+Resposta: O consumo é concentrado em valores baixos (0–2 kW), havendo poucos registros em faixas mais altas (acima de 5 kW).
+
+
+39. Existe correlação visível entre Voltage e Global_intensity?
+
+Resposta: Existe uma associação fraca a moderada: em geral, maiores intensidades acompanham maiores potências, mas a dispersão é grande e não há correlação linear forte.
+
+
+40. Cada cluster representa um padrão distinto de consumo doméstico?
+
+Resposta: Sim.
+
+Cluster 1: baixo consumo em todos os submedidores.
+
+Cluster 2: consumo moderado, principalmente em Sub_metering_2
+
+Cluster 3: consumo mais elevado em Sub_metering_3 
